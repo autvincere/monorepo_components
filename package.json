@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "private": false,
+  "name": "@edo1984/components_library",
+  "version": "0.0.1-alpha.0",
   "workspaces": [
     "packages/*"
   ],
